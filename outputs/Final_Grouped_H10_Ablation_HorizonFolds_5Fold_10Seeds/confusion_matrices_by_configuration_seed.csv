@@ -1,0 +1,641 @@
+configuration,seed,true_id,pred_id,true_class,pred_class,count
+Sensor-only LSTM,42,0,0,Good,Good,185
+Sensor-only LSTM,42,0,1,Good,Burr,128
+Sensor-only LSTM,42,0,2,Good,Flash-burr,42
+Sensor-only LSTM,42,0,3,Good,Surface-groove/void,171
+Sensor-only LSTM,42,1,0,Burr,Good,272
+Sensor-only LSTM,42,1,1,Burr,Burr,72
+Sensor-only LSTM,42,1,2,Burr,Flash-burr,490
+Sensor-only LSTM,42,1,3,Burr,Surface-groove/void,114
+Sensor-only LSTM,42,2,0,Flash-burr,Good,2
+Sensor-only LSTM,42,2,1,Flash-burr,Burr,12
+Sensor-only LSTM,42,2,2,Flash-burr,Flash-burr,424
+Sensor-only LSTM,42,2,3,Flash-burr,Surface-groove/void,20
+Sensor-only LSTM,42,3,0,Surface-groove/void,Good,11
+Sensor-only LSTM,42,3,1,Surface-groove/void,Burr,0
+Sensor-only LSTM,42,3,2,Surface-groove/void,Flash-burr,0
+Sensor-only LSTM,42,3,3,Surface-groove/void,Surface-groove/void,638
+Sensor-only LSTM,43,0,0,Good,Good,98
+Sensor-only LSTM,43,0,1,Good,Burr,266
+Sensor-only LSTM,43,0,2,Good,Flash-burr,26
+Sensor-only LSTM,43,0,3,Good,Surface-groove/void,136
+Sensor-only LSTM,43,1,0,Burr,Good,264
+Sensor-only LSTM,43,1,1,Burr,Burr,94
+Sensor-only LSTM,43,1,2,Burr,Flash-burr,486
+Sensor-only LSTM,43,1,3,Burr,Surface-groove/void,104
+Sensor-only LSTM,43,2,0,Flash-burr,Good,5
+Sensor-only LSTM,43,2,1,Flash-burr,Burr,45
+Sensor-only LSTM,43,2,2,Flash-burr,Flash-burr,387
+Sensor-only LSTM,43,2,3,Flash-burr,Surface-groove/void,21
+Sensor-only LSTM,43,3,0,Surface-groove/void,Good,0
+Sensor-only LSTM,43,3,1,Surface-groove/void,Burr,0
+Sensor-only LSTM,43,3,2,Surface-groove/void,Flash-burr,0
+Sensor-only LSTM,43,3,3,Surface-groove/void,Surface-groove/void,649
+Sensor-only LSTM,44,0,0,Good,Good,273
+Sensor-only LSTM,44,0,1,Good,Burr,95
+Sensor-only LSTM,44,0,2,Good,Flash-burr,18
+Sensor-only LSTM,44,0,3,Good,Surface-groove/void,140
+Sensor-only LSTM,44,1,0,Burr,Good,306
+Sensor-only LSTM,44,1,1,Burr,Burr,224
+Sensor-only LSTM,44,1,2,Burr,Flash-burr,314
+Sensor-only LSTM,44,1,3,Burr,Surface-groove/void,104
+Sensor-only LSTM,44,2,0,Flash-burr,Good,17
+Sensor-only LSTM,44,2,1,Flash-burr,Burr,7
+Sensor-only LSTM,44,2,2,Flash-burr,Flash-burr,417
+Sensor-only LSTM,44,2,3,Flash-burr,Surface-groove/void,17
+Sensor-only LSTM,44,3,0,Surface-groove/void,Good,245
+Sensor-only LSTM,44,3,1,Surface-groove/void,Burr,0
+Sensor-only LSTM,44,3,2,Surface-groove/void,Flash-burr,0
+Sensor-only LSTM,44,3,3,Surface-groove/void,Surface-groove/void,404
+Sensor-only LSTM,45,0,0,Good,Good,141
+Sensor-only LSTM,45,0,1,Good,Burr,137
+Sensor-only LSTM,45,0,2,Good,Flash-burr,70
+Sensor-only LSTM,45,0,3,Good,Surface-groove/void,178
+Sensor-only LSTM,45,1,0,Burr,Good,167
+Sensor-only LSTM,45,1,1,Burr,Burr,177
+Sensor-only LSTM,45,1,2,Burr,Flash-burr,484
+Sensor-only LSTM,45,1,3,Burr,Surface-groove/void,120
+Sensor-only LSTM,45,2,0,Flash-burr,Good,4
+Sensor-only LSTM,45,2,1,Flash-burr,Burr,12
+Sensor-only LSTM,45,2,2,Flash-burr,Flash-burr,424
+Sensor-only LSTM,45,2,3,Flash-burr,Surface-groove/void,18
+Sensor-only LSTM,45,3,0,Surface-groove/void,Good,38
+Sensor-only LSTM,45,3,1,Surface-groove/void,Burr,0
+Sensor-only LSTM,45,3,2,Surface-groove/void,Flash-burr,0
+Sensor-only LSTM,45,3,3,Surface-groove/void,Surface-groove/void,611
+Sensor-only LSTM,46,0,0,Good,Good,362
+Sensor-only LSTM,46,0,1,Good,Burr,2
+Sensor-only LSTM,46,0,2,Good,Flash-burr,26
+Sensor-only LSTM,46,0,3,Good,Surface-groove/void,136
+Sensor-only LSTM,46,1,0,Burr,Good,354
+Sensor-only LSTM,46,1,1,Burr,Burr,4
+Sensor-only LSTM,46,1,2,Burr,Flash-burr,486
+Sensor-only LSTM,46,1,3,Burr,Surface-groove/void,104
+Sensor-only LSTM,46,2,0,Flash-burr,Good,13
+Sensor-only LSTM,46,2,1,Flash-burr,Burr,0
+Sensor-only LSTM,46,2,2,Flash-burr,Flash-burr,424
+Sensor-only LSTM,46,2,3,Flash-burr,Surface-groove/void,21
+Sensor-only LSTM,46,3,0,Surface-groove/void,Good,0
+Sensor-only LSTM,46,3,1,Surface-groove/void,Burr,0
+Sensor-only LSTM,46,3,2,Surface-groove/void,Flash-burr,0
+Sensor-only LSTM,46,3,3,Surface-groove/void,Surface-groove/void,649
+Sensor-only LSTM,47,0,0,Good,Good,236
+Sensor-only LSTM,47,0,1,Good,Burr,129
+Sensor-only LSTM,47,0,2,Good,Flash-burr,26
+Sensor-only LSTM,47,0,3,Good,Surface-groove/void,135
+Sensor-only LSTM,47,1,0,Burr,Good,304
+Sensor-only LSTM,47,1,1,Burr,Burr,50
+Sensor-only LSTM,47,1,2,Burr,Flash-burr,490
+Sensor-only LSTM,47,1,3,Burr,Surface-groove/void,104
+Sensor-only LSTM,47,2,0,Flash-burr,Good,20
+Sensor-only LSTM,47,2,1,Flash-burr,Burr,10
+Sensor-only LSTM,47,2,2,Flash-burr,Flash-burr,424
+Sensor-only LSTM,47,2,3,Flash-burr,Surface-groove/void,4
+Sensor-only LSTM,47,3,0,Surface-groove/void,Good,209
+Sensor-only LSTM,47,3,1,Surface-groove/void,Burr,0
+Sensor-only LSTM,47,3,2,Surface-groove/void,Flash-burr,0
+Sensor-only LSTM,47,3,3,Surface-groove/void,Surface-groove/void,440
+Sensor-only LSTM,48,0,0,Good,Good,180
+Sensor-only LSTM,48,0,1,Good,Burr,64
+Sensor-only LSTM,48,0,2,Good,Flash-burr,26
+Sensor-only LSTM,48,0,3,Good,Surface-groove/void,256
+Sensor-only LSTM,48,1,0,Burr,Good,284
+Sensor-only LSTM,48,1,1,Burr,Burr,39
+Sensor-only LSTM,48,1,2,Burr,Flash-burr,483
+Sensor-only LSTM,48,1,3,Burr,Surface-groove/void,142
+Sensor-only LSTM,48,2,0,Flash-burr,Good,1
+Sensor-only LSTM,48,2,1,Flash-burr,Burr,12
+Sensor-only LSTM,48,2,2,Flash-burr,Flash-burr,415
+Sensor-only LSTM,48,2,3,Flash-burr,Surface-groove/void,30
+Sensor-only LSTM,48,3,0,Surface-groove/void,Good,2
+Sensor-only LSTM,48,3,1,Surface-groove/void,Burr,0
+Sensor-only LSTM,48,3,2,Surface-groove/void,Flash-burr,0
+Sensor-only LSTM,48,3,3,Surface-groove/void,Surface-groove/void,647
+Sensor-only LSTM,49,0,0,Good,Good,289
+Sensor-only LSTM,49,0,1,Good,Burr,40
+Sensor-only LSTM,49,0,2,Good,Flash-burr,26
+Sensor-only LSTM,49,0,3,Good,Surface-groove/void,171
+Sensor-only LSTM,49,1,0,Burr,Good,256
+Sensor-only LSTM,49,1,1,Burr,Burr,89
+Sensor-only LSTM,49,1,2,Burr,Flash-burr,490
+Sensor-only LSTM,49,1,3,Burr,Surface-groove/void,113
+Sensor-only LSTM,49,2,0,Flash-burr,Good,13
+Sensor-only LSTM,49,2,1,Flash-burr,Burr,1
+Sensor-only LSTM,49,2,2,Flash-burr,Flash-burr,424
+Sensor-only LSTM,49,2,3,Flash-burr,Surface-groove/void,20
+Sensor-only LSTM,49,3,0,Surface-groove/void,Good,33
+Sensor-only LSTM,49,3,1,Surface-groove/void,Burr,0
+Sensor-only LSTM,49,3,2,Surface-groove/void,Flash-burr,0
+Sensor-only LSTM,49,3,3,Surface-groove/void,Surface-groove/void,616
+Sensor-only LSTM,50,0,0,Good,Good,155
+Sensor-only LSTM,50,0,1,Good,Burr,67
+Sensor-only LSTM,50,0,2,Good,Flash-burr,26
+Sensor-only LSTM,50,0,3,Good,Surface-groove/void,278
+Sensor-only LSTM,50,1,0,Burr,Good,227
+Sensor-only LSTM,50,1,1,Burr,Burr,100
+Sensor-only LSTM,50,1,2,Burr,Flash-burr,484
+Sensor-only LSTM,50,1,3,Burr,Surface-groove/void,137
+Sensor-only LSTM,50,2,0,Flash-burr,Good,1
+Sensor-only LSTM,50,2,1,Flash-burr,Burr,71
+Sensor-only LSTM,50,2,2,Flash-burr,Flash-burr,365
+Sensor-only LSTM,50,2,3,Flash-burr,Surface-groove/void,21
+Sensor-only LSTM,50,3,0,Surface-groove/void,Good,9
+Sensor-only LSTM,50,3,1,Surface-groove/void,Burr,4
+Sensor-only LSTM,50,3,2,Surface-groove/void,Flash-burr,0
+Sensor-only LSTM,50,3,3,Surface-groove/void,Surface-groove/void,636
+Sensor-only LSTM,51,0,0,Good,Good,63
+Sensor-only LSTM,51,0,1,Good,Burr,281
+Sensor-only LSTM,51,0,2,Good,Flash-burr,46
+Sensor-only LSTM,51,0,3,Good,Surface-groove/void,136
+Sensor-only LSTM,51,1,0,Burr,Good,242
+Sensor-only LSTM,51,1,1,Burr,Burr,111
+Sensor-only LSTM,51,1,2,Burr,Flash-burr,491
+Sensor-only LSTM,51,1,3,Burr,Surface-groove/void,104
+Sensor-only LSTM,51,2,0,Flash-burr,Good,1
+Sensor-only LSTM,51,2,1,Flash-burr,Burr,12
+Sensor-only LSTM,51,2,2,Flash-burr,Flash-burr,424
+Sensor-only LSTM,51,2,3,Flash-burr,Surface-groove/void,21
+Sensor-only LSTM,51,3,0,Surface-groove/void,Good,12
+Sensor-only LSTM,51,3,1,Surface-groove/void,Burr,0
+Sensor-only LSTM,51,3,2,Surface-groove/void,Flash-burr,0
+Sensor-only LSTM,51,3,3,Surface-groove/void,Surface-groove/void,637
+Vision-only LSTM,42,0,0,Good,Good,318
+Vision-only LSTM,42,0,1,Good,Burr,167
+Vision-only LSTM,42,0,2,Good,Flash-burr,0
+Vision-only LSTM,42,0,3,Good,Surface-groove/void,41
+Vision-only LSTM,42,1,0,Burr,Good,277
+Vision-only LSTM,42,1,1,Burr,Burr,564
+Vision-only LSTM,42,1,2,Burr,Flash-burr,45
+Vision-only LSTM,42,1,3,Burr,Surface-groove/void,62
+Vision-only LSTM,42,2,0,Flash-burr,Good,0
+Vision-only LSTM,42,2,1,Flash-burr,Burr,38
+Vision-only LSTM,42,2,2,Flash-burr,Flash-burr,399
+Vision-only LSTM,42,2,3,Flash-burr,Surface-groove/void,21
+Vision-only LSTM,42,3,0,Surface-groove/void,Good,2
+Vision-only LSTM,42,3,1,Surface-groove/void,Burr,0
+Vision-only LSTM,42,3,2,Surface-groove/void,Flash-burr,0
+Vision-only LSTM,42,3,3,Surface-groove/void,Surface-groove/void,647
+Vision-only LSTM,43,0,0,Good,Good,329
+Vision-only LSTM,43,0,1,Good,Burr,182
+Vision-only LSTM,43,0,2,Good,Flash-burr,0
+Vision-only LSTM,43,0,3,Good,Surface-groove/void,15
+Vision-only LSTM,43,1,0,Burr,Good,422
+Vision-only LSTM,43,1,1,Burr,Burr,430
+Vision-only LSTM,43,1,2,Burr,Flash-burr,62
+Vision-only LSTM,43,1,3,Burr,Surface-groove/void,34
+Vision-only LSTM,43,2,0,Flash-burr,Good,1
+Vision-only LSTM,43,2,1,Flash-burr,Burr,23
+Vision-only LSTM,43,2,2,Flash-burr,Flash-burr,413
+Vision-only LSTM,43,2,3,Flash-burr,Surface-groove/void,21
+Vision-only LSTM,43,3,0,Surface-groove/void,Good,12
+Vision-only LSTM,43,3,1,Surface-groove/void,Burr,0
+Vision-only LSTM,43,3,2,Surface-groove/void,Flash-burr,0
+Vision-only LSTM,43,3,3,Surface-groove/void,Surface-groove/void,637
+Vision-only LSTM,44,0,0,Good,Good,501
+Vision-only LSTM,44,0,1,Good,Burr,17
+Vision-only LSTM,44,0,2,Good,Flash-burr,0
+Vision-only LSTM,44,0,3,Good,Surface-groove/void,8
+Vision-only LSTM,44,1,0,Burr,Good,311
+Vision-only LSTM,44,1,1,Burr,Burr,603
+Vision-only LSTM,44,1,2,Burr,Flash-burr,28
+Vision-only LSTM,44,1,3,Burr,Surface-groove/void,6
+Vision-only LSTM,44,2,0,Flash-burr,Good,0
+Vision-only LSTM,44,2,1,Flash-burr,Burr,54
+Vision-only LSTM,44,2,2,Flash-burr,Flash-burr,383
+Vision-only LSTM,44,2,3,Flash-burr,Surface-groove/void,21
+Vision-only LSTM,44,3,0,Surface-groove/void,Good,0
+Vision-only LSTM,44,3,1,Surface-groove/void,Burr,0
+Vision-only LSTM,44,3,2,Surface-groove/void,Flash-burr,0
+Vision-only LSTM,44,3,3,Surface-groove/void,Surface-groove/void,649
+Vision-only LSTM,45,0,0,Good,Good,243
+Vision-only LSTM,45,0,1,Good,Burr,195
+Vision-only LSTM,45,0,2,Good,Flash-burr,0
+Vision-only LSTM,45,0,3,Good,Surface-groove/void,88
+Vision-only LSTM,45,1,0,Burr,Good,129
+Vision-only LSTM,45,1,1,Burr,Burr,591
+Vision-only LSTM,45,1,2,Burr,Flash-burr,160
+Vision-only LSTM,45,1,3,Burr,Surface-groove/void,68
+Vision-only LSTM,45,2,0,Flash-burr,Good,0
+Vision-only LSTM,45,2,1,Flash-burr,Burr,60
+Vision-only LSTM,45,2,2,Flash-burr,Flash-burr,377
+Vision-only LSTM,45,2,3,Flash-burr,Surface-groove/void,21
+Vision-only LSTM,45,3,0,Surface-groove/void,Good,0
+Vision-only LSTM,45,3,1,Surface-groove/void,Burr,2
+Vision-only LSTM,45,3,2,Surface-groove/void,Flash-burr,9
+Vision-only LSTM,45,3,3,Surface-groove/void,Surface-groove/void,638
+Vision-only LSTM,46,0,0,Good,Good,458
+Vision-only LSTM,46,0,1,Good,Burr,45
+Vision-only LSTM,46,0,2,Good,Flash-burr,0
+Vision-only LSTM,46,0,3,Good,Surface-groove/void,23
+Vision-only LSTM,46,1,0,Burr,Good,256
+Vision-only LSTM,46,1,1,Burr,Burr,575
+Vision-only LSTM,46,1,2,Burr,Flash-burr,58
+Vision-only LSTM,46,1,3,Burr,Surface-groove/void,59
+Vision-only LSTM,46,2,0,Flash-burr,Good,0
+Vision-only LSTM,46,2,1,Flash-burr,Burr,24
+Vision-only LSTM,46,2,2,Flash-burr,Flash-burr,413
+Vision-only LSTM,46,2,3,Flash-burr,Surface-groove/void,21
+Vision-only LSTM,46,3,0,Surface-groove/void,Good,20
+Vision-only LSTM,46,3,1,Surface-groove/void,Burr,0
+Vision-only LSTM,46,3,2,Surface-groove/void,Flash-burr,0
+Vision-only LSTM,46,3,3,Surface-groove/void,Surface-groove/void,629
+Vision-only LSTM,47,0,0,Good,Good,451
+Vision-only LSTM,47,0,1,Good,Burr,64
+Vision-only LSTM,47,0,2,Good,Flash-burr,8
+Vision-only LSTM,47,0,3,Good,Surface-groove/void,3
+Vision-only LSTM,47,1,0,Burr,Good,288
+Vision-only LSTM,47,1,1,Burr,Burr,559
+Vision-only LSTM,47,1,2,Burr,Flash-burr,100
+Vision-only LSTM,47,1,3,Burr,Surface-groove/void,1
+Vision-only LSTM,47,2,0,Flash-burr,Good,0
+Vision-only LSTM,47,2,1,Flash-burr,Burr,44
+Vision-only LSTM,47,2,2,Flash-burr,Flash-burr,393
+Vision-only LSTM,47,2,3,Flash-burr,Surface-groove/void,21
+Vision-only LSTM,47,3,0,Surface-groove/void,Good,0
+Vision-only LSTM,47,3,1,Surface-groove/void,Burr,0
+Vision-only LSTM,47,3,2,Surface-groove/void,Flash-burr,0
+Vision-only LSTM,47,3,3,Surface-groove/void,Surface-groove/void,649
+Vision-only LSTM,48,0,0,Good,Good,409
+Vision-only LSTM,48,0,1,Good,Burr,33
+Vision-only LSTM,48,0,2,Good,Flash-burr,0
+Vision-only LSTM,48,0,3,Good,Surface-groove/void,84
+Vision-only LSTM,48,1,0,Burr,Good,390
+Vision-only LSTM,48,1,1,Burr,Burr,425
+Vision-only LSTM,48,1,2,Burr,Flash-burr,79
+Vision-only LSTM,48,1,3,Burr,Surface-groove/void,54
+Vision-only LSTM,48,2,0,Flash-burr,Good,1
+Vision-only LSTM,48,2,1,Flash-burr,Burr,28
+Vision-only LSTM,48,2,2,Flash-burr,Flash-burr,408
+Vision-only LSTM,48,2,3,Flash-burr,Surface-groove/void,21
+Vision-only LSTM,48,3,0,Surface-groove/void,Good,0
+Vision-only LSTM,48,3,1,Surface-groove/void,Burr,0
+Vision-only LSTM,48,3,2,Surface-groove/void,Flash-burr,0
+Vision-only LSTM,48,3,3,Surface-groove/void,Surface-groove/void,649
+Vision-only LSTM,49,0,0,Good,Good,312
+Vision-only LSTM,49,0,1,Good,Burr,174
+Vision-only LSTM,49,0,2,Good,Flash-burr,0
+Vision-only LSTM,49,0,3,Good,Surface-groove/void,40
+Vision-only LSTM,49,1,0,Burr,Good,213
+Vision-only LSTM,49,1,1,Burr,Burr,605
+Vision-only LSTM,49,1,2,Burr,Flash-burr,72
+Vision-only LSTM,49,1,3,Burr,Surface-groove/void,58
+Vision-only LSTM,49,2,0,Flash-burr,Good,0
+Vision-only LSTM,49,2,1,Flash-burr,Burr,38
+Vision-only LSTM,49,2,2,Flash-burr,Flash-burr,399
+Vision-only LSTM,49,2,3,Flash-burr,Surface-groove/void,21
+Vision-only LSTM,49,3,0,Surface-groove/void,Good,2
+Vision-only LSTM,49,3,1,Surface-groove/void,Burr,0
+Vision-only LSTM,49,3,2,Surface-groove/void,Flash-burr,0
+Vision-only LSTM,49,3,3,Surface-groove/void,Surface-groove/void,647
+Vision-only LSTM,50,0,0,Good,Good,335
+Vision-only LSTM,50,0,1,Good,Burr,183
+Vision-only LSTM,50,0,2,Good,Flash-burr,0
+Vision-only LSTM,50,0,3,Good,Surface-groove/void,8
+Vision-only LSTM,50,1,0,Burr,Good,150
+Vision-only LSTM,50,1,1,Burr,Burr,742
+Vision-only LSTM,50,1,2,Burr,Flash-burr,42
+Vision-only LSTM,50,1,3,Burr,Surface-groove/void,14
+Vision-only LSTM,50,2,0,Flash-burr,Good,0
+Vision-only LSTM,50,2,1,Flash-burr,Burr,54
+Vision-only LSTM,50,2,2,Flash-burr,Flash-burr,383
+Vision-only LSTM,50,2,3,Flash-burr,Surface-groove/void,21
+Vision-only LSTM,50,3,0,Surface-groove/void,Good,0
+Vision-only LSTM,50,3,1,Surface-groove/void,Burr,0
+Vision-only LSTM,50,3,2,Surface-groove/void,Flash-burr,0
+Vision-only LSTM,50,3,3,Surface-groove/void,Surface-groove/void,649
+Vision-only LSTM,51,0,0,Good,Good,327
+Vision-only LSTM,51,0,1,Good,Burr,158
+Vision-only LSTM,51,0,2,Good,Flash-burr,0
+Vision-only LSTM,51,0,3,Good,Surface-groove/void,41
+Vision-only LSTM,51,1,0,Burr,Good,144
+Vision-only LSTM,51,1,1,Burr,Burr,703
+Vision-only LSTM,51,1,2,Burr,Flash-burr,42
+Vision-only LSTM,51,1,3,Burr,Surface-groove/void,59
+Vision-only LSTM,51,2,0,Flash-burr,Good,0
+Vision-only LSTM,51,2,1,Flash-burr,Burr,50
+Vision-only LSTM,51,2,2,Flash-burr,Flash-burr,387
+Vision-only LSTM,51,2,3,Flash-burr,Surface-groove/void,21
+Vision-only LSTM,51,3,0,Surface-groove/void,Good,2
+Vision-only LSTM,51,3,1,Surface-groove/void,Burr,0
+Vision-only LSTM,51,3,2,Surface-groove/void,Flash-burr,0
+Vision-only LSTM,51,3,3,Surface-groove/void,Surface-groove/void,647
+Fusion-LSTM without derivatives,42,0,0,Good,Good,469
+Fusion-LSTM without derivatives,42,0,1,Good,Burr,9
+Fusion-LSTM without derivatives,42,0,2,Good,Flash-burr,26
+Fusion-LSTM without derivatives,42,0,3,Good,Surface-groove/void,22
+Fusion-LSTM without derivatives,42,1,0,Burr,Good,144
+Fusion-LSTM without derivatives,42,1,1,Burr,Burr,288
+Fusion-LSTM without derivatives,42,1,2,Burr,Flash-burr,462
+Fusion-LSTM without derivatives,42,1,3,Burr,Surface-groove/void,54
+Fusion-LSTM without derivatives,42,2,0,Flash-burr,Good,2
+Fusion-LSTM without derivatives,42,2,1,Flash-burr,Burr,26
+Fusion-LSTM without derivatives,42,2,2,Flash-burr,Flash-burr,409
+Fusion-LSTM without derivatives,42,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM without derivatives,42,3,0,Surface-groove/void,Good,26
+Fusion-LSTM without derivatives,42,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM without derivatives,42,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM without derivatives,42,3,3,Surface-groove/void,Surface-groove/void,623
+Fusion-LSTM without derivatives,43,0,0,Good,Good,409
+Fusion-LSTM without derivatives,43,0,1,Good,Burr,114
+Fusion-LSTM without derivatives,43,0,2,Good,Flash-burr,0
+Fusion-LSTM without derivatives,43,0,3,Good,Surface-groove/void,3
+Fusion-LSTM without derivatives,43,1,0,Burr,Good,186
+Fusion-LSTM without derivatives,43,1,1,Burr,Burr,664
+Fusion-LSTM without derivatives,43,1,2,Burr,Flash-burr,56
+Fusion-LSTM without derivatives,43,1,3,Burr,Surface-groove/void,42
+Fusion-LSTM without derivatives,43,2,0,Flash-burr,Good,0
+Fusion-LSTM without derivatives,43,2,1,Flash-burr,Burr,40
+Fusion-LSTM without derivatives,43,2,2,Flash-burr,Flash-burr,397
+Fusion-LSTM without derivatives,43,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM without derivatives,43,3,0,Surface-groove/void,Good,8
+Fusion-LSTM without derivatives,43,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM without derivatives,43,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM without derivatives,43,3,3,Surface-groove/void,Surface-groove/void,641
+Fusion-LSTM without derivatives,44,0,0,Good,Good,380
+Fusion-LSTM without derivatives,44,0,1,Good,Burr,33
+Fusion-LSTM without derivatives,44,0,2,Good,Flash-burr,19
+Fusion-LSTM without derivatives,44,0,3,Good,Surface-groove/void,94
+Fusion-LSTM without derivatives,44,1,0,Burr,Good,132
+Fusion-LSTM without derivatives,44,1,1,Burr,Burr,601
+Fusion-LSTM without derivatives,44,1,2,Burr,Flash-burr,149
+Fusion-LSTM without derivatives,44,1,3,Burr,Surface-groove/void,66
+Fusion-LSTM without derivatives,44,2,0,Flash-burr,Good,4
+Fusion-LSTM without derivatives,44,2,1,Flash-burr,Burr,51
+Fusion-LSTM without derivatives,44,2,2,Flash-burr,Flash-burr,382
+Fusion-LSTM without derivatives,44,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM without derivatives,44,3,0,Surface-groove/void,Good,29
+Fusion-LSTM without derivatives,44,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM without derivatives,44,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM without derivatives,44,3,3,Surface-groove/void,Surface-groove/void,620
+Fusion-LSTM without derivatives,45,0,0,Good,Good,437
+Fusion-LSTM without derivatives,45,0,1,Good,Burr,21
+Fusion-LSTM without derivatives,45,0,2,Good,Flash-burr,19
+Fusion-LSTM without derivatives,45,0,3,Good,Surface-groove/void,49
+Fusion-LSTM without derivatives,45,1,0,Burr,Good,199
+Fusion-LSTM without derivatives,45,1,1,Burr,Burr,499
+Fusion-LSTM without derivatives,45,1,2,Burr,Flash-burr,188
+Fusion-LSTM without derivatives,45,1,3,Burr,Surface-groove/void,62
+Fusion-LSTM without derivatives,45,2,0,Flash-burr,Good,0
+Fusion-LSTM without derivatives,45,2,1,Flash-burr,Burr,39
+Fusion-LSTM without derivatives,45,2,2,Flash-burr,Flash-burr,398
+Fusion-LSTM without derivatives,45,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM without derivatives,45,3,0,Surface-groove/void,Good,2
+Fusion-LSTM without derivatives,45,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM without derivatives,45,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM without derivatives,45,3,3,Surface-groove/void,Surface-groove/void,647
+Fusion-LSTM without derivatives,46,0,0,Good,Good,374
+Fusion-LSTM without derivatives,46,0,1,Good,Burr,9
+Fusion-LSTM without derivatives,46,0,2,Good,Flash-burr,20
+Fusion-LSTM without derivatives,46,0,3,Good,Surface-groove/void,123
+Fusion-LSTM without derivatives,46,1,0,Burr,Good,124
+Fusion-LSTM without derivatives,46,1,1,Burr,Burr,540
+Fusion-LSTM without derivatives,46,1,2,Burr,Flash-burr,192
+Fusion-LSTM without derivatives,46,1,3,Burr,Surface-groove/void,92
+Fusion-LSTM without derivatives,46,2,0,Flash-burr,Good,0
+Fusion-LSTM without derivatives,46,2,1,Flash-burr,Burr,50
+Fusion-LSTM without derivatives,46,2,2,Flash-burr,Flash-burr,387
+Fusion-LSTM without derivatives,46,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM without derivatives,46,3,0,Surface-groove/void,Good,19
+Fusion-LSTM without derivatives,46,3,1,Surface-groove/void,Burr,4
+Fusion-LSTM without derivatives,46,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM without derivatives,46,3,3,Surface-groove/void,Surface-groove/void,626
+Fusion-LSTM without derivatives,47,0,0,Good,Good,405
+Fusion-LSTM without derivatives,47,0,1,Good,Burr,32
+Fusion-LSTM without derivatives,47,0,2,Good,Flash-burr,10
+Fusion-LSTM without derivatives,47,0,3,Good,Surface-groove/void,79
+Fusion-LSTM without derivatives,47,1,0,Burr,Good,139
+Fusion-LSTM without derivatives,47,1,1,Burr,Burr,610
+Fusion-LSTM without derivatives,47,1,2,Burr,Flash-burr,134
+Fusion-LSTM without derivatives,47,1,3,Burr,Surface-groove/void,65
+Fusion-LSTM without derivatives,47,2,0,Flash-burr,Good,1
+Fusion-LSTM without derivatives,47,2,1,Flash-burr,Burr,38
+Fusion-LSTM without derivatives,47,2,2,Flash-burr,Flash-burr,398
+Fusion-LSTM without derivatives,47,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM without derivatives,47,3,0,Surface-groove/void,Good,0
+Fusion-LSTM without derivatives,47,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM without derivatives,47,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM without derivatives,47,3,3,Surface-groove/void,Surface-groove/void,649
+Fusion-LSTM without derivatives,48,0,0,Good,Good,464
+Fusion-LSTM without derivatives,48,0,1,Good,Burr,14
+Fusion-LSTM without derivatives,48,0,2,Good,Flash-burr,26
+Fusion-LSTM without derivatives,48,0,3,Good,Surface-groove/void,22
+Fusion-LSTM without derivatives,48,1,0,Burr,Good,151
+Fusion-LSTM without derivatives,48,1,1,Burr,Burr,380
+Fusion-LSTM without derivatives,48,1,2,Burr,Flash-burr,366
+Fusion-LSTM without derivatives,48,1,3,Burr,Surface-groove/void,51
+Fusion-LSTM without derivatives,48,2,0,Flash-burr,Good,6
+Fusion-LSTM without derivatives,48,2,1,Flash-burr,Burr,18
+Fusion-LSTM without derivatives,48,2,2,Flash-burr,Flash-burr,413
+Fusion-LSTM without derivatives,48,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM without derivatives,48,3,0,Surface-groove/void,Good,26
+Fusion-LSTM without derivatives,48,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM without derivatives,48,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM without derivatives,48,3,3,Surface-groove/void,Surface-groove/void,623
+Fusion-LSTM without derivatives,49,0,0,Good,Good,471
+Fusion-LSTM without derivatives,49,0,1,Good,Burr,33
+Fusion-LSTM without derivatives,49,0,2,Good,Flash-burr,0
+Fusion-LSTM without derivatives,49,0,3,Good,Surface-groove/void,22
+Fusion-LSTM without derivatives,49,1,0,Burr,Good,163
+Fusion-LSTM without derivatives,49,1,1,Burr,Burr,676
+Fusion-LSTM without derivatives,49,1,2,Burr,Flash-burr,70
+Fusion-LSTM without derivatives,49,1,3,Burr,Surface-groove/void,39
+Fusion-LSTM without derivatives,49,2,0,Flash-burr,Good,12
+Fusion-LSTM without derivatives,49,2,1,Flash-burr,Burr,12
+Fusion-LSTM without derivatives,49,2,2,Flash-burr,Flash-burr,413
+Fusion-LSTM without derivatives,49,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM without derivatives,49,3,0,Surface-groove/void,Good,0
+Fusion-LSTM without derivatives,49,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM without derivatives,49,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM without derivatives,49,3,3,Surface-groove/void,Surface-groove/void,649
+Fusion-LSTM without derivatives,50,0,0,Good,Good,479
+Fusion-LSTM without derivatives,50,0,1,Good,Burr,24
+Fusion-LSTM without derivatives,50,0,2,Good,Flash-burr,6
+Fusion-LSTM without derivatives,50,0,3,Good,Surface-groove/void,17
+Fusion-LSTM without derivatives,50,1,0,Burr,Good,169
+Fusion-LSTM without derivatives,50,1,1,Burr,Burr,648
+Fusion-LSTM without derivatives,50,1,2,Burr,Flash-burr,95
+Fusion-LSTM without derivatives,50,1,3,Burr,Surface-groove/void,36
+Fusion-LSTM without derivatives,50,2,0,Flash-burr,Good,12
+Fusion-LSTM without derivatives,50,2,1,Flash-burr,Burr,15
+Fusion-LSTM without derivatives,50,2,2,Flash-burr,Flash-burr,410
+Fusion-LSTM without derivatives,50,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM without derivatives,50,3,0,Surface-groove/void,Good,0
+Fusion-LSTM without derivatives,50,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM without derivatives,50,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM without derivatives,50,3,3,Surface-groove/void,Surface-groove/void,649
+Fusion-LSTM without derivatives,51,0,0,Good,Good,466
+Fusion-LSTM without derivatives,51,0,1,Good,Burr,49
+Fusion-LSTM without derivatives,51,0,2,Good,Flash-burr,0
+Fusion-LSTM without derivatives,51,0,3,Good,Surface-groove/void,11
+Fusion-LSTM without derivatives,51,1,0,Burr,Good,196
+Fusion-LSTM without derivatives,51,1,1,Burr,Burr,664
+Fusion-LSTM without derivatives,51,1,2,Burr,Flash-burr,83
+Fusion-LSTM without derivatives,51,1,3,Burr,Surface-groove/void,5
+Fusion-LSTM without derivatives,51,2,0,Flash-burr,Good,0
+Fusion-LSTM without derivatives,51,2,1,Flash-burr,Burr,24
+Fusion-LSTM without derivatives,51,2,2,Flash-burr,Flash-burr,413
+Fusion-LSTM without derivatives,51,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM without derivatives,51,3,0,Surface-groove/void,Good,0
+Fusion-LSTM without derivatives,51,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM without derivatives,51,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM without derivatives,51,3,3,Surface-groove/void,Surface-groove/void,649
+Fusion-LSTM with derivatives,42,0,0,Good,Good,468
+Fusion-LSTM with derivatives,42,0,1,Good,Burr,44
+Fusion-LSTM with derivatives,42,0,2,Good,Flash-burr,0
+Fusion-LSTM with derivatives,42,0,3,Good,Surface-groove/void,14
+Fusion-LSTM with derivatives,42,1,0,Burr,Good,145
+Fusion-LSTM with derivatives,42,1,1,Burr,Burr,715
+Fusion-LSTM with derivatives,42,1,2,Burr,Flash-burr,36
+Fusion-LSTM with derivatives,42,1,3,Burr,Surface-groove/void,52
+Fusion-LSTM with derivatives,42,2,0,Flash-burr,Good,0
+Fusion-LSTM with derivatives,42,2,1,Flash-burr,Burr,39
+Fusion-LSTM with derivatives,42,2,2,Flash-burr,Flash-burr,398
+Fusion-LSTM with derivatives,42,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM with derivatives,42,3,0,Surface-groove/void,Good,0
+Fusion-LSTM with derivatives,42,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM with derivatives,42,3,2,Surface-groove/void,Flash-burr,3
+Fusion-LSTM with derivatives,42,3,3,Surface-groove/void,Surface-groove/void,646
+Fusion-LSTM with derivatives,43,0,0,Good,Good,481
+Fusion-LSTM with derivatives,43,0,1,Good,Burr,19
+Fusion-LSTM with derivatives,43,0,2,Good,Flash-burr,4
+Fusion-LSTM with derivatives,43,0,3,Good,Surface-groove/void,22
+Fusion-LSTM with derivatives,43,1,0,Burr,Good,265
+Fusion-LSTM with derivatives,43,1,1,Burr,Burr,590
+Fusion-LSTM with derivatives,43,1,2,Burr,Flash-burr,62
+Fusion-LSTM with derivatives,43,1,3,Burr,Surface-groove/void,31
+Fusion-LSTM with derivatives,43,2,0,Flash-burr,Good,7
+Fusion-LSTM with derivatives,43,2,1,Flash-burr,Burr,27
+Fusion-LSTM with derivatives,43,2,2,Flash-burr,Flash-burr,403
+Fusion-LSTM with derivatives,43,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM with derivatives,43,3,0,Surface-groove/void,Good,1
+Fusion-LSTM with derivatives,43,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM with derivatives,43,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM with derivatives,43,3,3,Surface-groove/void,Surface-groove/void,648
+Fusion-LSTM with derivatives,44,0,0,Good,Good,467
+Fusion-LSTM with derivatives,44,0,1,Good,Burr,13
+Fusion-LSTM with derivatives,44,0,2,Good,Flash-burr,23
+Fusion-LSTM with derivatives,44,0,3,Good,Surface-groove/void,23
+Fusion-LSTM with derivatives,44,1,0,Burr,Good,248
+Fusion-LSTM with derivatives,44,1,1,Burr,Burr,431
+Fusion-LSTM with derivatives,44,1,2,Burr,Flash-burr,215
+Fusion-LSTM with derivatives,44,1,3,Burr,Surface-groove/void,54
+Fusion-LSTM with derivatives,44,2,0,Flash-burr,Good,6
+Fusion-LSTM with derivatives,44,2,1,Flash-burr,Burr,18
+Fusion-LSTM with derivatives,44,2,2,Flash-burr,Flash-burr,413
+Fusion-LSTM with derivatives,44,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM with derivatives,44,3,0,Surface-groove/void,Good,14
+Fusion-LSTM with derivatives,44,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM with derivatives,44,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM with derivatives,44,3,3,Surface-groove/void,Surface-groove/void,635
+Fusion-LSTM with derivatives,45,0,0,Good,Good,352
+Fusion-LSTM with derivatives,45,0,1,Good,Burr,12
+Fusion-LSTM with derivatives,45,0,2,Good,Flash-burr,26
+Fusion-LSTM with derivatives,45,0,3,Good,Surface-groove/void,136
+Fusion-LSTM with derivatives,45,1,0,Burr,Good,100
+Fusion-LSTM with derivatives,45,1,1,Burr,Burr,482
+Fusion-LSTM with derivatives,45,1,2,Burr,Flash-burr,264
+Fusion-LSTM with derivatives,45,1,3,Burr,Surface-groove/void,102
+Fusion-LSTM with derivatives,45,2,0,Flash-burr,Good,3
+Fusion-LSTM with derivatives,45,2,1,Flash-burr,Burr,15
+Fusion-LSTM with derivatives,45,2,2,Flash-burr,Flash-burr,419
+Fusion-LSTM with derivatives,45,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM with derivatives,45,3,0,Surface-groove/void,Good,0
+Fusion-LSTM with derivatives,45,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM with derivatives,45,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM with derivatives,45,3,3,Surface-groove/void,Surface-groove/void,649
+Fusion-LSTM with derivatives,46,0,0,Good,Good,374
+Fusion-LSTM with derivatives,46,0,1,Good,Burr,10
+Fusion-LSTM with derivatives,46,0,2,Good,Flash-burr,26
+Fusion-LSTM with derivatives,46,0,3,Good,Surface-groove/void,116
+Fusion-LSTM with derivatives,46,1,0,Burr,Good,111
+Fusion-LSTM with derivatives,46,1,1,Burr,Burr,261
+Fusion-LSTM with derivatives,46,1,2,Burr,Flash-burr,484
+Fusion-LSTM with derivatives,46,1,3,Burr,Surface-groove/void,92
+Fusion-LSTM with derivatives,46,2,0,Flash-burr,Good,1
+Fusion-LSTM with derivatives,46,2,1,Flash-burr,Burr,21
+Fusion-LSTM with derivatives,46,2,2,Flash-burr,Flash-burr,415
+Fusion-LSTM with derivatives,46,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM with derivatives,46,3,0,Surface-groove/void,Good,0
+Fusion-LSTM with derivatives,46,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM with derivatives,46,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM with derivatives,46,3,3,Surface-groove/void,Surface-groove/void,649
+Fusion-LSTM with derivatives,47,0,0,Good,Good,459
+Fusion-LSTM with derivatives,47,0,1,Good,Burr,21
+Fusion-LSTM with derivatives,47,0,2,Good,Flash-burr,20
+Fusion-LSTM with derivatives,47,0,3,Good,Surface-groove/void,26
+Fusion-LSTM with derivatives,47,1,0,Burr,Good,210
+Fusion-LSTM with derivatives,47,1,1,Burr,Burr,510
+Fusion-LSTM with derivatives,47,1,2,Burr,Flash-burr,170
+Fusion-LSTM with derivatives,47,1,3,Burr,Surface-groove/void,58
+Fusion-LSTM with derivatives,47,2,0,Flash-burr,Good,2
+Fusion-LSTM with derivatives,47,2,1,Flash-burr,Burr,28
+Fusion-LSTM with derivatives,47,2,2,Flash-burr,Flash-burr,407
+Fusion-LSTM with derivatives,47,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM with derivatives,47,3,0,Surface-groove/void,Good,7
+Fusion-LSTM with derivatives,47,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM with derivatives,47,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM with derivatives,47,3,3,Surface-groove/void,Surface-groove/void,642
+Fusion-LSTM with derivatives,48,0,0,Good,Good,465
+Fusion-LSTM with derivatives,48,0,1,Good,Burr,39
+Fusion-LSTM with derivatives,48,0,2,Good,Flash-burr,0
+Fusion-LSTM with derivatives,48,0,3,Good,Surface-groove/void,22
+Fusion-LSTM with derivatives,48,1,0,Burr,Good,155
+Fusion-LSTM with derivatives,48,1,1,Burr,Burr,664
+Fusion-LSTM with derivatives,48,1,2,Burr,Flash-burr,82
+Fusion-LSTM with derivatives,48,1,3,Burr,Surface-groove/void,47
+Fusion-LSTM with derivatives,48,2,0,Flash-burr,Good,0
+Fusion-LSTM with derivatives,48,2,1,Flash-burr,Burr,24
+Fusion-LSTM with derivatives,48,2,2,Flash-burr,Flash-burr,413
+Fusion-LSTM with derivatives,48,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM with derivatives,48,3,0,Surface-groove/void,Good,34
+Fusion-LSTM with derivatives,48,3,1,Surface-groove/void,Burr,1
+Fusion-LSTM with derivatives,48,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM with derivatives,48,3,3,Surface-groove/void,Surface-groove/void,614
+Fusion-LSTM with derivatives,49,0,0,Good,Good,480
+Fusion-LSTM with derivatives,49,0,1,Good,Burr,40
+Fusion-LSTM with derivatives,49,0,2,Good,Flash-burr,1
+Fusion-LSTM with derivatives,49,0,3,Good,Surface-groove/void,5
+Fusion-LSTM with derivatives,49,1,0,Burr,Good,188
+Fusion-LSTM with derivatives,49,1,1,Burr,Burr,692
+Fusion-LSTM with derivatives,49,1,2,Burr,Flash-burr,61
+Fusion-LSTM with derivatives,49,1,3,Burr,Surface-groove/void,7
+Fusion-LSTM with derivatives,49,2,0,Flash-burr,Good,0
+Fusion-LSTM with derivatives,49,2,1,Flash-burr,Burr,28
+Fusion-LSTM with derivatives,49,2,2,Flash-burr,Flash-burr,409
+Fusion-LSTM with derivatives,49,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM with derivatives,49,3,0,Surface-groove/void,Good,0
+Fusion-LSTM with derivatives,49,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM with derivatives,49,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM with derivatives,49,3,3,Surface-groove/void,Surface-groove/void,649
+Fusion-LSTM with derivatives,50,0,0,Good,Good,486
+Fusion-LSTM with derivatives,50,0,1,Good,Burr,12
+Fusion-LSTM with derivatives,50,0,2,Good,Flash-burr,25
+Fusion-LSTM with derivatives,50,0,3,Good,Surface-groove/void,3
+Fusion-LSTM with derivatives,50,1,0,Burr,Good,192
+Fusion-LSTM with derivatives,50,1,1,Burr,Burr,508
+Fusion-LSTM with derivatives,50,1,2,Burr,Flash-burr,247
+Fusion-LSTM with derivatives,50,1,3,Burr,Surface-groove/void,1
+Fusion-LSTM with derivatives,50,2,0,Flash-burr,Good,7
+Fusion-LSTM with derivatives,50,2,1,Flash-burr,Burr,20
+Fusion-LSTM with derivatives,50,2,2,Flash-burr,Flash-burr,410
+Fusion-LSTM with derivatives,50,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM with derivatives,50,3,0,Surface-groove/void,Good,0
+Fusion-LSTM with derivatives,50,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM with derivatives,50,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM with derivatives,50,3,3,Surface-groove/void,Surface-groove/void,649
+Fusion-LSTM with derivatives,51,0,0,Good,Good,397
+Fusion-LSTM with derivatives,51,0,1,Good,Burr,37
+Fusion-LSTM with derivatives,51,0,2,Good,Flash-burr,0
+Fusion-LSTM with derivatives,51,0,3,Good,Surface-groove/void,92
+Fusion-LSTM with derivatives,51,1,0,Burr,Good,146
+Fusion-LSTM with derivatives,51,1,1,Burr,Burr,674
+Fusion-LSTM with derivatives,51,1,2,Burr,Flash-burr,54
+Fusion-LSTM with derivatives,51,1,3,Burr,Surface-groove/void,74
+Fusion-LSTM with derivatives,51,2,0,Flash-burr,Good,4
+Fusion-LSTM with derivatives,51,2,1,Flash-burr,Burr,34
+Fusion-LSTM with derivatives,51,2,2,Flash-burr,Flash-burr,399
+Fusion-LSTM with derivatives,51,2,3,Flash-burr,Surface-groove/void,21
+Fusion-LSTM with derivatives,51,3,0,Surface-groove/void,Good,0
+Fusion-LSTM with derivatives,51,3,1,Surface-groove/void,Burr,0
+Fusion-LSTM with derivatives,51,3,2,Surface-groove/void,Flash-burr,0
+Fusion-LSTM with derivatives,51,3,3,Surface-groove/void,Surface-groove/void,649

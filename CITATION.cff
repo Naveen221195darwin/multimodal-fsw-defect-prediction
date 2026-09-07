@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated work."
+title: "Multimodal Future Weld-State Prediction for Friction Stir Welding"
+type: software
+authors:
+  - family-names: Loganathan
+    given-names: Naveen
+    affiliation: University West
+repository-code: "https://github.com/Naveen221195darwin/fsw-multimodal-prediction"
+version: 1.0.0
+date-released: 2026-09-07
+license: LicenseRef-Proprietary

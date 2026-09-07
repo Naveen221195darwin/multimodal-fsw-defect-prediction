@@ -1,0 +1,4 @@
+Model,Features,Accuracy (%),Macro Precision (%),Macro Recall (%),Macro F1 (%),Weighted F1 (%),Accuracy 95% CI,Macro F1 95% CI
+Vision-only LSTM,12,77.01 ± 4.45,77.73 ± 4.64,79.19 ± 4.27,77.51 ± 4.46,76.50 ± 4.73,74.25–79.77,74.74–80.27
+Sensor-only LSTM,8,50.36 ± 3.44,48.05 ± 6.73,57.32 ± 4.22,47.04 ± 3.49,42.94 ± 3.59,48.22–52.49,44.88–49.20
+Fusion-LSTM with derivatives,20,79.32 ± 6.35,80.33 ± 4.84,82.70 ± 4.92,79.40 ± 6.67,78.47 ± 7.28,75.38–83.25,75.27–83.54

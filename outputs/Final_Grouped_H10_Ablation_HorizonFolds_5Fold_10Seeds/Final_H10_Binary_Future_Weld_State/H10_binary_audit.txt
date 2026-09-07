@@ -1,0 +1,41 @@
+FINAL H=10 BINARY FUTURE WELD STATE PREDICTION AUDIT
+
+Source artifact:
+H10_binary_all_10_seed_OOF_predictions.csv
+
+Configuration:
+Fusion-LSTM with derivatives
+
+Prediction horizon:
+H = 10 frames
+Approximate lead time = 0.333 s
+
+Outer experiment folds:
+[1, 2, 3, 4, 5]
+
+Seeds:
+[42, 43, 44, 45, 46, 47, 48, 49, 50, 51]
+
+Sequences per seed:
+2581
+
+Total OOF predictions:
+25810
+
+Expected total:
+25810
+
+Binary mapping:
+Good -> Good
+Burr -> Defect
+Flash-burr -> Defect
+Surface-groove/void -> Defect
+
+Separate binary neural network trained:
+No
+
+Binary analysis source:
+Final multiclass Fusion-LSTM-with-derivatives OOF predictions.
+
+AUDIT STATUS:
+PASSED

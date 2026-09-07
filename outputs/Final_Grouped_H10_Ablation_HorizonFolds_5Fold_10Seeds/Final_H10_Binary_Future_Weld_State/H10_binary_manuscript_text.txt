@@ -1,0 +1,23 @@
+At the engineering-selected prediction horizon of H=10 frames
+(approximately 0.333 s predictive lead time), future
+weld-state performance was evaluated by collapsing Burr, Flash-burr,
+and Surface-groove/void predictions into a single Defect state while
+retaining Good as the non-defective state. The binary assessment was
+derived directly from the pooled out-of-fold predictions of the final
+Fusion-LSTM with derivatives; no separate binary classifier was
+trained.
+
+Across ten training seeds, the binary Future Weld State Prediction
+achieved an accuracy of 88.16 ± 3.77% and a
+Macro F1 score of 83.77 ± 4.85%.
+
+From a manufacturing perspective, false Defect predictions may trigger
+unnecessary intervention, whereas Defect-to-Good errors are more
+critical because they may delay recognition of emerging quality
+deterioration. Nevertheless, the Defect recall of
+88.09 ± 4.00% indicates that most
+future defective conditions were identified at the selected forecasting
+horizon.
+
+The aggregated ten-seed confusion matrix yielded a Defect recall of
+88.09%.

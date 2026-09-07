@@ -1,0 +1,116 @@
+{
+  "dataset_path": "outputs/master_fusion_dataset_clean.csv",
+  "output_dir": "outputs/Final_Grouped_H10_Ablation_HorizonFolds_5Fold_10Seeds",
+  "sequence_length": 20,
+  "future_horizon": 10,
+  "fps": 30.0,
+  "approximate_horizon_seconds": 0.3333333333333333,
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+  ],
+  "outer_test_folds": [
+    [
+      "exp_10",
+      "exp_2"
+    ],
+    [
+      "exp_11",
+      "exp_3"
+    ],
+    [
+      "exp_7",
+      "exp_8"
+    ],
+    [
+      "exp_1",
+      "exp_6",
+      "exp_9"
+    ],
+    [
+      "exp_4",
+      "exp_5"
+    ]
+  ],
+  "epochs": 60,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "hidden_size": 64,
+  "num_layers": 2,
+  "lstm_dropout": 0.2,
+  "fc_dropout": 0.2,
+  "class_names": [
+    "Good",
+    "Burr",
+    "Flash-burr",
+    "Surface-groove/void"
+  ],
+  "configurations": {
+    "Sensor-only LSTM": [
+      "sensor_force",
+      "sensor_rpm",
+      "sensor_torque",
+      "sensor_temp",
+      "sensor_force_diff",
+      "sensor_rpm_diff",
+      "sensor_torque_diff",
+      "sensor_temp_diff"
+    ],
+    "Vision-only LSTM": [
+      "weld_width_mm",
+      "weld_area_mm2",
+      "Burrs_area_mm2",
+      "flash_burr_area_mm2",
+      "surface_groove_void_area_mm2",
+      "total_defect_area_mm2",
+      "weld_width_mm_diff",
+      "weld_area_mm2_diff",
+      "Burrs_area_mm2_diff",
+      "flash_burr_area_mm2_diff",
+      "surface_groove_void_area_mm2_diff",
+      "total_defect_area_mm2_diff"
+    ],
+    "Fusion-LSTM without derivatives": [
+      "sensor_force",
+      "sensor_rpm",
+      "sensor_torque",
+      "sensor_temp",
+      "weld_width_mm",
+      "weld_area_mm2",
+      "Burrs_area_mm2",
+      "flash_burr_area_mm2",
+      "surface_groove_void_area_mm2",
+      "total_defect_area_mm2"
+    ],
+    "Fusion-LSTM with derivatives": [
+      "sensor_force",
+      "sensor_rpm",
+      "sensor_torque",
+      "sensor_temp",
+      "weld_width_mm",
+      "weld_area_mm2",
+      "Burrs_area_mm2",
+      "flash_burr_area_mm2",
+      "surface_groove_void_area_mm2",
+      "total_defect_area_mm2",
+      "sensor_force_diff",
+      "sensor_rpm_diff",
+      "sensor_torque_diff",
+      "sensor_temp_diff",
+      "weld_width_mm_diff",
+      "weld_area_mm2_diff",
+      "Burrs_area_mm2_diff",
+      "flash_burr_area_mm2_diff",
+      "surface_groove_void_area_mm2_diff",
+      "total_defect_area_mm2_diff"
+    ]
+  }
+}

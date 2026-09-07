@@ -1,0 +1,7 @@
+category_id,category_name,normalized,annotation_count,mapped_class_id,mapped_class
+0,fusion-model-validation,fusion_model_validation,0,,IGNORED
+1,2,2,1,,IGNORED
+2,Burrs,burrs,478,1.0,Burr
+3,Weld,weld,759,,IGNORED
+4,flash_bur,flash_bur,174,2.0,Flash-burr
+5,surface_groove_void,surface_groove_void,398,3.0,Surface-groove/void

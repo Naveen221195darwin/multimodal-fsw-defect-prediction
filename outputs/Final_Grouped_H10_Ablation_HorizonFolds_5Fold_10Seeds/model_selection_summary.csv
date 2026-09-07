@@ -1,0 +1,201 @@
+configuration,fold,seed,best_epoch,best_validation_loss,training_experiments,validation_experiments,test_experiments
+Sensor-only LSTM,1,42,15,1.0636238045287583,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Sensor-only LSTM,1,43,21,0.7782176821424276,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Sensor-only LSTM,1,44,50,0.8829354328929253,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Sensor-only LSTM,1,45,7,0.8218355825487172,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Sensor-only LSTM,1,46,28,0.614546753950339,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Sensor-only LSTM,1,47,1,1.0503482511208493,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Sensor-only LSTM,1,48,40,0.6152436572675685,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Sensor-only LSTM,1,49,21,0.8494616680675082,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Sensor-only LSTM,1,50,55,0.909019754711437,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Sensor-only LSTM,1,51,9,0.9958273084596018,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Sensor-only LSTM,2,42,1,1.3783447289312376,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Sensor-only LSTM,2,43,52,1.4101724709599373,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Sensor-only LSTM,2,44,3,1.176835283476127,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Sensor-only LSTM,2,45,1,1.537453926922693,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Sensor-only LSTM,2,46,3,1.5242099432399412,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Sensor-only LSTM,2,47,1,1.5188073828719861,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Sensor-only LSTM,2,48,1,1.1827689172382232,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Sensor-only LSTM,2,49,1,1.1217044213420628,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Sensor-only LSTM,2,50,1,1.0690379675727169,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Sensor-only LSTM,2,51,1,1.3144019000216127,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Sensor-only LSTM,3,42,2,0.8624718114265106,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Sensor-only LSTM,3,43,13,0.7641065732363135,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Sensor-only LSTM,3,44,2,0.6970946533874895,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Sensor-only LSTM,3,45,4,0.9146075055034405,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Sensor-only LSTM,3,46,3,0.7271392367920786,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Sensor-only LSTM,3,47,5,0.7450468756992612,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Sensor-only LSTM,3,48,7,0.7286206898699267,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Sensor-only LSTM,3,49,3,0.8849586435833817,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Sensor-only LSTM,3,50,2,0.8531584914625315,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Sensor-only LSTM,3,51,4,0.8953950597555133,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Sensor-only LSTM,4,42,6,0.7341321605556416,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Sensor-only LSTM,4,43,3,0.6256375195345288,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Sensor-only LSTM,4,44,4,0.650667014611842,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Sensor-only LSTM,4,45,4,0.7895823524683027,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Sensor-only LSTM,4,46,3,0.6275586287180582,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Sensor-only LSTM,4,47,3,0.6449655068245573,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Sensor-only LSTM,4,48,5,0.6274724424010303,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Sensor-only LSTM,4,49,8,0.5903252624365769,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Sensor-only LSTM,4,50,9,0.7171885977251224,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Sensor-only LSTM,4,51,4,0.6448997409088807,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Sensor-only LSTM,5,42,2,0.8815703393278382,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Sensor-only LSTM,5,43,14,0.7890351727698584,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Sensor-only LSTM,5,44,4,0.7595664845072748,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Sensor-only LSTM,5,45,5,0.7407141089189477,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Sensor-only LSTM,5,46,4,0.7517934265376637,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Sensor-only LSTM,5,47,7,0.7623894785685109,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Sensor-only LSTM,5,48,19,0.6518586196739469,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Sensor-only LSTM,5,49,4,0.7782904619440842,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Sensor-only LSTM,5,50,23,0.7625449548477397,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Sensor-only LSTM,5,51,13,0.8026342294501059,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Vision-only LSTM,1,42,4,0.5332197028229821,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Vision-only LSTM,1,43,11,0.4606361041778788,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Vision-only LSTM,1,44,3,0.36782761405473985,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Vision-only LSTM,1,45,52,0.4888466759418885,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Vision-only LSTM,1,46,32,0.4481338523953091,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Vision-only LSTM,1,47,7,0.4663708559247183,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Vision-only LSTM,1,48,12,0.44257939505377153,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Vision-only LSTM,1,49,4,0.42659635129589707,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Vision-only LSTM,1,50,3,0.37412924917738893,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Vision-only LSTM,1,51,9,0.5319500009624963,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Vision-only LSTM,2,42,2,0.5123925404080047,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Vision-only LSTM,2,43,2,0.5893915316198608,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Vision-only LSTM,2,44,3,0.5945835248858831,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Vision-only LSTM,2,45,2,0.49503561410224206,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Vision-only LSTM,2,46,2,0.5850545005555029,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Vision-only LSTM,2,47,2,0.6027018365411985,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Vision-only LSTM,2,48,2,0.5843504649782091,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Vision-only LSTM,2,49,2,0.6382955073682716,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Vision-only LSTM,2,50,2,0.5011631271301027,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Vision-only LSTM,2,51,2,0.688052195902777,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Vision-only LSTM,3,42,2,0.5432999596405829,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Vision-only LSTM,3,43,3,0.6073420934957029,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Vision-only LSTM,3,44,9,0.6061566314607296,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Vision-only LSTM,3,45,42,0.7729157709850455,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Vision-only LSTM,3,46,1,0.5606592301302736,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Vision-only LSTM,3,47,44,0.5971280771856288,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Vision-only LSTM,3,48,6,0.5620560083124373,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Vision-only LSTM,3,49,15,0.5995154846889168,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Vision-only LSTM,3,50,2,0.6070683083694186,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Vision-only LSTM,3,51,4,0.6140448152394165,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Vision-only LSTM,4,42,26,0.6528957855479647,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Vision-only LSTM,4,43,1,0.7025917166184079,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Vision-only LSTM,4,44,1,0.6277472253115672,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Vision-only LSTM,4,45,12,0.6705789524960318,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Vision-only LSTM,4,46,1,0.6540865685704869,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Vision-only LSTM,4,47,8,0.7097308123386631,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Vision-only LSTM,4,48,1,0.6427718445939837,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Vision-only LSTM,4,49,24,0.7940737351333914,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Vision-only LSTM,4,50,9,0.5639497022333885,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Vision-only LSTM,4,51,3,0.7908513273583019,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Vision-only LSTM,5,42,3,0.5377774169859896,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Vision-only LSTM,5,43,3,0.5966638234176476,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Vision-only LSTM,5,44,5,0.6557606266229657,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Vision-only LSTM,5,45,4,0.711257267048274,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Vision-only LSTM,5,46,3,0.645421150782823,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Vision-only LSTM,5,47,3,0.6890611393021837,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Vision-only LSTM,5,48,5,0.7096206898209434,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Vision-only LSTM,5,49,38,0.6925414820480896,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Vision-only LSTM,5,50,6,0.6429873171967281,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Vision-only LSTM,5,51,4,0.7166144290560197,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM without derivatives,1,42,20,0.42835723188563213,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM without derivatives,1,43,28,0.44956714989504226,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM without derivatives,1,44,15,0.6261490375834441,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM without derivatives,1,45,4,0.3700600869375705,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM without derivatives,1,46,3,0.42747472435923245,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM without derivatives,1,47,10,0.35099963570478326,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM without derivatives,1,48,10,0.47061179028492056,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM without derivatives,1,49,3,0.4115675598757822,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM without derivatives,1,50,3,0.43271523236103776,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM without derivatives,1,51,2,0.3787961266700577,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM without derivatives,2,42,1,0.5890104239303658,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM without derivatives,2,43,1,0.5035537676342621,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM without derivatives,2,44,1,0.6773935822572873,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM without derivatives,2,45,28,0.888263051866777,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM without derivatives,2,46,2,0.47042230486097397,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM without derivatives,2,47,2,0.594131504276015,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM without derivatives,2,48,1,0.6247487062383161,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM without derivatives,2,49,1,0.480332345027903,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM without derivatives,2,50,1,0.5433844106501173,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM without derivatives,2,51,1,0.612286710488101,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM without derivatives,3,42,1,0.5295860802352553,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM without derivatives,3,43,4,0.5722609842098484,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM without derivatives,3,44,2,0.5884851151042514,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM without derivatives,3,45,5,0.5797176870909877,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM without derivatives,3,46,4,0.6018678549075777,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM without derivatives,3,47,2,0.5517955294320168,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM without derivatives,3,48,7,0.5675946495318063,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM without derivatives,3,49,5,0.5824844937154582,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM without derivatives,3,50,9,0.6061410899557158,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM without derivatives,3,51,3,0.5790364009404333,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM without derivatives,4,42,2,0.5439471827363068,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM without derivatives,4,43,3,0.5385128474585416,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM without derivatives,4,44,4,0.5222773893074419,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM without derivatives,4,45,2,0.5377256266725888,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM without derivatives,4,46,5,0.49828265235608976,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM without derivatives,4,47,2,0.5273508671944497,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM without derivatives,4,48,9,0.5109927488073113,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM without derivatives,4,49,11,0.5614491266274603,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM without derivatives,4,50,6,0.5495469619518056,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM without derivatives,4,51,2,0.5299084855075652,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM without derivatives,5,42,1,0.5162994811619852,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM without derivatives,5,43,3,0.5855166152338311,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM without derivatives,5,44,2,0.659117240825789,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM without derivatives,5,45,4,0.5987195456302891,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM without derivatives,5,46,4,0.6030250041739745,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM without derivatives,5,47,1,0.5249736359034445,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM without derivatives,5,48,3,0.6102857204853114,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM without derivatives,5,49,3,0.5660122854154814,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM without derivatives,5,50,3,0.6296692495575991,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM without derivatives,5,51,2,0.6071867030621575,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM with derivatives,1,42,6,0.4476694228826579,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM with derivatives,1,43,1,0.5493992094723683,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM with derivatives,1,44,3,0.44547267404992125,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM with derivatives,1,45,2,0.6244940651537737,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM with derivatives,1,46,5,0.4290691174925998,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM with derivatives,1,47,4,0.4834861860647641,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM with derivatives,1,48,2,0.45807083553987976,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM with derivatives,1,49,15,0.5779820654845838,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM with derivatives,1,50,13,0.6144123483816283,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM with derivatives,1,51,13,0.38315923883730013,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2
+Fusion-LSTM with derivatives,2,42,2,0.7058993746922804,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM with derivatives,2,43,1,0.6037474581026362,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM with derivatives,2,44,1,0.737285706349377,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM with derivatives,2,45,1,0.604270690653803,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM with derivatives,2,46,2,0.5827163365502595,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM with derivatives,2,47,1,0.6420467889849619,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM with derivatives,2,48,3,0.6231093582884282,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM with derivatives,2,49,1,0.6732637545588722,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM with derivatives,2,50,1,0.706967960809786,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM with derivatives,2,51,2,0.6428570180455501,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3
+Fusion-LSTM with derivatives,3,42,3,0.6195580293297518,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM with derivatives,3,43,7,0.5680490283596191,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM with derivatives,3,44,6,0.5807444993055092,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM with derivatives,3,45,2,0.6463573436941991,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM with derivatives,3,46,2,0.5379934443367852,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM with derivatives,3,47,3,0.575289415488453,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM with derivatives,3,48,2,0.5463016098150417,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM with derivatives,3,49,3,0.5886544896371709,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM with derivatives,3,50,2,0.6834365321280321,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM with derivatives,3,51,2,0.5409084654704079,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8
+Fusion-LSTM with derivatives,4,42,6,0.5613972244616324,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM with derivatives,4,43,3,0.5239914668805944,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM with derivatives,4,44,3,0.5449065987169118,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM with derivatives,4,45,4,0.5256215786908908,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM with derivatives,4,46,5,0.49369920037327575,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM with derivatives,4,47,2,0.567316214618443,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM with derivatives,4,48,2,0.519829611108488,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM with derivatives,4,49,4,0.5102746915267449,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM with derivatives,4,50,3,0.5728158525325967,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM with derivatives,4,51,3,0.5034437943679482,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9
+Fusion-LSTM with derivatives,5,42,5,0.541572766983784,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM with derivatives,5,43,1,0.5818866833700824,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM with derivatives,5,44,1,0.6496045804373624,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM with derivatives,5,45,4,0.6201193278940469,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM with derivatives,5,46,5,0.556239854739647,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM with derivatives,5,47,1,0.5940698027860694,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM with derivatives,5,48,2,0.5499285836889559,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM with derivatives,5,49,3,0.5428719851705763,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM with derivatives,5,50,5,0.5869849094304899,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5
+Fusion-LSTM with derivatives,5,51,2,0.5588952891481748,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5

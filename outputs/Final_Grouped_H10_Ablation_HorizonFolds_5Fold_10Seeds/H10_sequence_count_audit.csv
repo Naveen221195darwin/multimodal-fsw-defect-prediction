@@ -1,0 +1,12 @@
+exp_id,usable_rows,expected_H10_sequences,min_frame_idx,max_frame_idx,nominal_frame_span,unique_frame_indices,duplicate_frame_indices,nonconsecutive_transitions,missing_frames_within_span
+exp_1,249,220,117,365,249,249,0,0,0
+exp_10,280,251,96,375,280,280,0,0,0
+exp_11,279,250,96,374,279,279,0,0,0
+exp_2,256,227,165,420,256,256,0,0,0
+exp_3,256,227,185,440,256,256,0,0,0
+exp_4,265,236,112,376,265,265,0,0,0
+exp_5,263,234,138,400,263,263,0,0,0
+exp_6,266,237,119,384,266,266,0,0,0
+exp_7,258,229,80,337,258,258,0,0,0
+exp_8,269,240,159,427,269,269,0,0,0
+exp_9,259,230,82,340,259,259,0,0,0

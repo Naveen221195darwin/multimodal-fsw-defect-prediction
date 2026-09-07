@@ -1,0 +1,61 @@
+comparison,metric,seed,difference_percentage_points
+Fusion-LSTM with derivatives minus Sensor-only LSTM,accuracy,42,35.18016272762495
+Fusion-LSTM with derivatives minus Sensor-only LSTM,accuracy,43,34.63773731111972
+Fusion-LSTM with derivatives minus Sensor-only LSTM,accuracy,44,24.331654397520342
+Fusion-LSTM with derivatives minus Sensor-only LSTM,accuracy,45,21.27082526152654
+Fusion-LSTM with derivatives minus Sensor-only LSTM,accuracy,46,10.073614877954284
+Fusion-LSTM with derivatives minus Sensor-only LSTM,accuracy,47,33.63037582332429
+Fusion-LSTM with derivatives minus Sensor-only LSTM,accuracy,48,33.901588531576905
+Fusion-LSTM with derivatives minus Sensor-only LSTM,accuracy,49,31.46067415730337
+Fusion-LSTM with derivatives minus Sensor-only LSTM,accuracy,50,30.87950406819062
+Fusion-LSTM with derivatives minus Sensor-only LSTM,accuracy,51,34.25029058504456
+Fusion-LSTM with derivatives minus Sensor-only LSTM,macro_f1,42,39.20505785892282
+Fusion-LSTM with derivatives minus Sensor-only LSTM,macro_f1,43,38.74706576696104
+Fusion-LSTM with derivatives minus Sensor-only LSTM,macro_f1,44,23.971348414979566
+Fusion-LSTM with derivatives minus Sensor-only LSTM,macro_f1,45,24.13277032312579
+Fusion-LSTM with derivatives minus Sensor-only LSTM,macro_f1,46,14.60227478991768
+Fusion-LSTM with derivatives minus Sensor-only LSTM,macro_f1,47,35.274090768331476
+Fusion-LSTM with derivatives minus Sensor-only LSTM,macro_f1,48,39.19434448014276
+Fusion-LSTM with derivatives minus Sensor-only LSTM,macro_f1,49,34.89188589270814
+Fusion-LSTM with derivatives minus Sensor-only LSTM,macro_f1,50,34.833500049837994
+Fusion-LSTM with derivatives minus Sensor-only LSTM,macro_f1,51,38.790300121497765
+Fusion-LSTM with derivatives minus Vision-only LSTM,accuracy,42,11.584657109647424
+Fusion-LSTM with derivatives minus Vision-only LSTM,accuracy,43,12.127082526152655
+Fusion-LSTM with derivatives minus Vision-only LSTM,accuracy,44,-7.361487795428124
+Fusion-LSTM with derivatives minus Vision-only LSTM,accuracy,45,2.0534676481983705
+Fusion-LSTM with derivatives minus Vision-only LSTM,accuracy,46,-14.567996900426184
+Fusion-LSTM with derivatives minus Vision-only LSTM,accuracy,47,-1.3173188686555592
+Fusion-LSTM with derivatives minus Vision-only LSTM,accuracy,48,10.267338240991863
+Fusion-LSTM with derivatives minus Vision-only LSTM,accuracy,49,10.344827586206895
+Fusion-LSTM with derivatives minus Vision-only LSTM,accuracy,50,-2.169701666020918
+Fusion-LSTM with derivatives minus Vision-only LSTM,accuracy,51,2.130956993413402
+Fusion-LSTM with derivatives minus Vision-only LSTM,macro_f1,42,11.144564917197307
+Fusion-LSTM with derivatives minus Vision-only LSTM,macro_f1,43,10.827120443703786
+Fusion-LSTM with derivatives minus Vision-only LSTM,macro_f1,44,-8.2954782690984
+Fusion-LSTM with derivatives minus Vision-only LSTM,macro_f1,45,2.727275198088308
+Fusion-LSTM with derivatives minus Vision-only LSTM,macro_f1,46,-15.978315066377412
+Fusion-LSTM with derivatives minus Vision-only LSTM,macro_f1,47,-1.8844053352996881
+Fusion-LSTM with derivatives minus Vision-only LSTM,macro_f1,48,9.771087688565794
+Fusion-LSTM with derivatives minus Vision-only LSTM,macro_f1,49,10.460676349601295
+Fusion-LSTM with derivatives minus Vision-only LSTM,macro_f1,50,-2.060269258992553
+Fusion-LSTM with derivatives minus Vision-only LSTM,macro_f1,51,2.2364802485674073
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,accuracy,42,16.970166602092217
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,accuracy,43,0.42619139868267375
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,accuracy,44,-1.4335528864781066
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,accuracy,45,-3.0608291359938034
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,accuracy,46,-8.833785354513745
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,accuracy,47,-1.7047655947307283
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,accuracy,48,10.693529639674537
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,accuracy,49,0.8136381247578428
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,accuracy,50,-5.15304145679969
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,accuracy,51,-2.8283611003486975
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,macro_f1,42,17.35626473016373
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,macro_f1,43,0.4441128504916181
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,macro_f1,44,-1.0747997648891672
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,macro_f1,45,-3.4271237264131726
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,macro_f1,46,-9.101572607850217
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,macro_f1,47,-1.4567920574025117
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,macro_f1,48,10.968490882031523
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,macro_f1,49,0.9464594173893892
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,macro_f1,50,-5.17187865376143
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,macro_f1,51,-3.1129859681038985

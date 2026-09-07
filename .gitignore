@@ -1,0 +1,24 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+
+# Raw acquisition data and model checkpoints are intentionally excluded.
+data/raw/
+*.mp4
+*.avi
+*.mov
+*.pt
+*.pth
+*.ckpt
+
+# Local-only configuration and generated scratch outputs.
+.env
+config/project_paths.local.json
+tmp/

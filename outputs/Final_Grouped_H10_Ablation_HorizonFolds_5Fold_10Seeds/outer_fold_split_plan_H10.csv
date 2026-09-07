@@ -1,0 +1,6 @@
+fold,training_experiments,validation_experiments,test_experiments,training_sequences,validation_sequences,test_sequences
+1,exp_1|exp_4|exp_5|exp_6|exp_7|exp_8|exp_9,exp_11|exp_3,exp_10|exp_2,1626,477,478
+2,exp_1|exp_10|exp_5|exp_6|exp_7|exp_8|exp_9,exp_2|exp_4,exp_11|exp_3,1641,463,477
+3,exp_1|exp_10|exp_3|exp_4|exp_5|exp_6|exp_9,exp_11|exp_2,exp_7|exp_8,1635,477,469
+4,exp_10|exp_3|exp_4|exp_5|exp_7|exp_8,exp_11|exp_2,exp_1|exp_6|exp_9,1417,477,687
+5,exp_1|exp_10|exp_3|exp_6|exp_7|exp_8|exp_9,exp_11|exp_2,exp_4|exp_5,1634,477,470

@@ -1,0 +1,7 @@
+comparison,metric,mean_difference_percentage_points,sd_difference,ci95_lower,ci95_upper
+Fusion-LSTM with derivatives minus Sensor-only LSTM,accuracy,28.96164277411856,8.112571736561234,23.933418717786527,33.989866830450595
+Fusion-LSTM with derivatives minus Sensor-only LSTM,macro_f1,32.3642638466425,8.499153097740015,27.096434180261014,37.63209351302399
+Fusion-LSTM with derivatives minus Vision-only LSTM,accuracy,2.3091824874079827,8.956683062571983,-3.242227189156074,7.86059216397204
+Fusion-LSTM with derivatives minus Vision-only LSTM,macro_f1,1.8948736915955842,9.157749507644908,-3.7811582587513355,7.570905641942503
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,accuracy,0.5889190236342496,7.649493241529799,-4.152286007868292,5.330124055136792
+Fusion-LSTM with derivatives minus Fusion-LSTM without derivatives,macro_f1,0.6370175101655863,7.8378219425989535,-4.22091485959222,5.494949879923393
